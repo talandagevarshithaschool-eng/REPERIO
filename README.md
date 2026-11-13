@@ -63,3 +63,17 @@ The application uses a local SQLite database. The database file is excluded from
 ## Project Status
 
 Working prototype. Developed as a campus-focused Lost and Found management solution.
+
+## Application Screenshots
+
+### Home Page
+![REPERIO Home](screenshots/home.jpeg)
+
+### Report an Item
+![Report an Item](screenshots/report%20an%20item.jpeg)
+
+### Browse Reports
+![Browse Reports](screenshots/browse%20an%20item.jpeg)
+
+### Resolve Reports
+![Resolve Reports](screenshots/resolve%20reports.jpeg)
